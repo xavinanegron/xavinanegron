@@ -2,7 +2,7 @@
 
   ## 🦋 A Little About Me
 
-👋🏻 Hi, I'm Xavina. 
+👋🏻 Greetings! I'm Xavina. 
 
 -As a **computer science undergrad**, I have a passion for acquiring knowledge that extends beyond the classroom. My goal is to apply theoretical concepts to real-world coding challenges!
 
