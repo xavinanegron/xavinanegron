@@ -6,9 +6,9 @@
 
 -As a computer science undergrad, I extend my pursuit of knowledge beyond the classroom. This propels me to apply theoretical concepts to practical coding challenges in the real world.
 
--Currently, I'm a student of Nucamp's Full Stack Web and Mobile App Development bootcamp.
+-Currently, I'm a student at Nucamp's Full Stack Web and Mobile App Development bootcamp.
 
--My passion lies in combining solid computer science fundamentals with the artistry of full-stack web development.
+-My passion lies in combining solid computer science fundamentals with the artistry of web development.
 
 -Join me on my coding journey, where algorithms meet elegant UIs. ✨
 
