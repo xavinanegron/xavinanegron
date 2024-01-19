@@ -4,9 +4,9 @@
 
 👋🏻 Greetings! I'm Xavina. 
 
--As a computer science undergrad, I extend my pursuit of knowledge beyond the classroom. This propels me to apply theoretical concepts to practical coding challenges in the real world.
+-As a **computer science undergrad**, I have a passion for acquiring knowledge that extends beyond the classroom. My goal is to apply theoretical concepts to real-world coding challenges!
 
--Currently, I'm a student at Nucamp's Full Stack Web and Mobile App Development bootcamp.
+-I'm currently enrolled in Nucamp's Full Stack Web and Mobile App Development bootcamp, where I'm delving into technologies like **JavaScript**, web development using **React**, mobile development with **React Native**, backend development with **Node.js**, and database management with **MongoDB**.
 
 -My passion lies in combining solid computer science fundamentals with the artistry of web development.
 
