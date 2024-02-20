@@ -6,7 +6,7 @@
 
 -As a **computer science undergrad**, I have a passion for acquiring knowledge beyond the classroom. My goal is to apply theoretical concepts to real-world coding challenges. 🌎👩🏼‍💻
 
--I'm currently enrolled in Nucamp's Full Stack Web and Mobile App Development bootcamp, where I'm delving into front-end technologies like **JavaScript**, **React** and **React Native**, and backend with **Node.js**, as well as database management with **MongoDB**. 📚
+-I'm currently enrolled in Nucamp's Full Stack Web and Mobile App Development bootcamp, where I'm delving into front-end technologies like **JavaScript**, **React** and **React Native**, as well as back-end with **Node.js**, and database management with **MongoDB**. 📚
 
 -My passion lies in combining solid computer science fundamentals with the artistry of web development. 
 
