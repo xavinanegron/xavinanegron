@@ -1,6 +1,6 @@
 
 
-  ## 🦋 A Little About Me
+  ## 🦋 A Bit About Myself
 
 👋🏻 Greetings! I'm Xavina. 
 
