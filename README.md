@@ -2,7 +2,7 @@
 
   ## A Bit About Myself 🌙🦋
 
-👋🏻👩🏻‍🦰 Greetings! I'm Xavina. 
+👋🏻 Greetings! I'm Xavina. 
 
 -As a **computer science undergraduate**, my dedication for learning extends beyond the classroom. In addition to my coursework, I actively practice coding challenges and work on projects outside of class, striving to apply theoretical concepts to real-world scenarios. 🌎👩🏼‍💻
 
