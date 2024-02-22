@@ -4,9 +4,9 @@
 
 ### 👋🏻 Greetings! I'm Xavina. 
 
--As a **computer science undergraduate**, my dedication for learning extends beyond the classroom. In addition to my coursework, I actively practice with coding challenges and work on projects outside of class, striving to apply theoretical concepts to real-world scenarios. 🌎👩🏼‍💻
+-As a **computer science undergraduate**, my dedication for learning extends beyond the classroom. In addition to my coursework, I actively practice coding challenges and work on projects outside of class, striving to apply theoretical concepts to real-world scenarios. 🌎👩🏼‍💻
 
--Currently, I'm growing my set of skills through **Nucamp's Full Stack Web and Mobile App Development bootcamp**. Here, I'm immersing myself in front-end technologies such as **JavaScript**, **React**, and **React Native**, alongside back-end development with **Node.js**, and database management with **MongoDB**. 📚🎓
+-Currently, I'm growing my skill set through **Nucamp's Full Stack Web and Mobile App Development bootcamp**. Here, I'm immersing myself in front-end technologies such as **JavaScript**, **React**, and **React Native**, alongside back-end development with **Node.js**, and database management with **MongoDB**. 📚🎓
 
 -Come along as I explore **creative web design**, where **logic** and **simplicity** come together, turning complex ideas into user-friendly experiences.💡✨💻
 
